@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+pandas
+spacy
+nltk
+prophet
+sentence-transformers
+faker
